@@ -8,3 +8,6 @@
 [submodule "githubr"]
 	path = githubr
 	url = https://github.com/fhdsl/githubr
+[submodule "metricminer"]
+	path = metricminer
+	url = https://github.com/fhdsl/metricminer
